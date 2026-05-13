@@ -14,7 +14,7 @@ Effect varies by user type and time of day.
 - Segmented analysis
 
 ## Output
-See PDF presentation: [link]
+See PDF presentation [here](https://github.com/glangetasq/causal_weather_bike_demand/blob/ee27bbafa067ea236214743010e223cc3fc80c32/causal_weather_bike_demand.pdf)
 
 ## Data
 * [Fanaee-T, H. (2013). UCI Bike Sharing Dataset](https://doi.org/10.24432/C5W894)
